@@ -1,0 +1,7 @@
+name: ColdSnowballs
+version: '0.1.0'
+main: io.github.alprny.coldSnowballs.ColdSnowballs
+api-version: '1.21'
+load: STARTUP
+authors: [ alprny ]
+description: Turns snowballs into something a lot COLDER.. BRRRRR
