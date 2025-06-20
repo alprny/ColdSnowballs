@@ -1,5 +1,5 @@
 name: ColdSnowballs
-version: '0.1.0'
+version: '0.1.0-ALPHA'
 main: io.github.alprny.coldSnowballs.ColdSnowballs
 api-version: '1.21'
 load: STARTUP

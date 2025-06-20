@@ -6,7 +6,7 @@
 
     <groupId>io.github.alprny</groupId>
     <artifactId>coldsnowballs</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.0-ALPHA</version>
     <packaging>jar</packaging>
 
     <name>coldsnowballs</name>
